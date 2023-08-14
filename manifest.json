@@ -1,0 +1,15 @@
+{
+  "name": "Firefly Image Downloader",
+  "version": "1.0.0",
+  "description": "Adobe Firefly image downloader without watermark",
+  "manifest_version": 3,
+  "author": "Vincenzo Aiello",
+  "icons": {
+    "48": "Adobe_favicon.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Firefly Image Downloader"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
